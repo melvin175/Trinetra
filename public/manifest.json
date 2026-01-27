@@ -1,0 +1,18 @@
+{
+  "name": "Trinetra - Enabling India's Commercial EV Ecosystem",
+  "short_name": "Trinetra",
+  "description": "Scalable EV charging infrastructure and fleet enablement services for India's commercial electric vehicle ecosystem",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
