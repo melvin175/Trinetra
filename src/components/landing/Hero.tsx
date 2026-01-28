@@ -28,7 +28,7 @@ export const Hero = () => {
               Enabling India's <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-lime-400">Commercial EV Ecosystem</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-300 mb-6 max-w-3xl mx-auto leading-relaxed font-medium">
-              Scalable charging infrastructure, fleet enablement, and integrated EV support services for India's clean mobility future.
+            Fleet enablement, scalable charging infrastructure, and integrated EV support services for India's clean mobility future.
             </p>
             <p className="text-lg text-gray-400 mb-10 max-w-3xl mx-auto leading-relaxed">
               <span className="font-semibold text-white">Trinetra</span> builds the physical and operational backbone required to accelerate the adoption of electric commercial vehicles across India.

@@ -42,8 +42,7 @@ export const Footer = () => {
         </div>
         
         <div className="text-center text-gray-500 text-sm pt-8 border-t border-white/10">
-          <p>© 2026 Trinetra Private Limited.</p>
-          <p className="mt-2">A DPIIT-Recognized Startup India Company.</p>
+          <p>© 2026 Aarambh Green Mobility Private Limited. All rights reserved.</p>
         </div>
       </div>
     </footer>

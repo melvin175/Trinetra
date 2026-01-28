@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Award, Zap, Truck, Leaf, MapPin } from 'lucide-react';
 
 const trustItems = [
-  { icon: Award, text: 'DPIIT-Recognized Startup (Startup India)' },
+  { icon: Award, text: 'Recognized under the Startup India initiative by DPIIT, Government of India' },
   { icon: Zap, text: 'Focus: Commercial EV Infrastructure' },
   { icon: Truck, text: 'Focus: Fleet Enablement & Services' },
   { icon: Leaf, text: 'ESG-Aligned Business Model' },

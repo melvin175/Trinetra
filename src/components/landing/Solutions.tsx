@@ -3,18 +3,6 @@ import { Zap, Truck, Wrench, Power } from 'lucide-react';
 
 const solutions = [
   {
-    icon: Zap,
-    title: 'Commercial EV Charging Infrastructure',
-    description: 'We design and deploy scalable charging solutions tailored for electric commercial vehicles, focusing on operational efficiency, uptime reliability, and grid-friendly energy usage.',
-    capabilities: [
-      'DC fast-charging solutions',
-      'Depot-based charging systems',
-      'Highway and logistics hub charging',
-      'Load balancing & power optimization',
-      'Modular infrastructure rollout',
-    ],
-  },
-  {
     icon: Truck,
     title: 'Fleet Enablement & Transition Support',
     description: 'We support logistics operators and enterprises in transitioning to electric fleets through infrastructure access, service networks, and operational enablement.',
@@ -27,6 +15,18 @@ const solutions = [
     ],
   },
   {
+    icon: Zap,
+    title: 'Commercial EV Charging Infrastructure',
+    description: 'We design and deploy scalable charging solutions tailored for electric commercial vehicles, focusing on operational efficiency, uptime reliability, and grid-friendly energy usage.',
+    capabilities: [
+      'DC fast-charging solutions',
+      'Depot-based charging systems',
+      'Highway and logistics hub charging',
+      'Load balancing & power optimization',
+      'Modular infrastructure rollout',
+    ],
+  },
+  {
     icon: Wrench,
     title: 'EV Maintenance & Service Support',
     description: 'We build and manage EV service networks through trained service partners to ensure fleet reliability and operational continuity.',
@@ -35,7 +35,7 @@ const solutions = [
       'Battery diagnostics',
       'Motor and power electronics support',
       'Annual maintenance contracts (AMC)',
-      'Regional service hubs (planned)',
+      'Regional service hubs',
     ],
   },
   {

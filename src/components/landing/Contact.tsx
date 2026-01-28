@@ -201,20 +201,11 @@ Reply to: ${formData.email}`);
                   <div>
                     <h4 className="font-semibold mb-1 text-white">Email</h4>
                     <a href="mailto:info@trinetra.com" className="text-blue-400 hover:text-blue-300 hover:underline transition-colors">
-                      info@trinetra.com
+                    info@trinetragreen.com
                     </a>
                   </div>
                 </div>
 
-                <div className="flex items-start gap-4">
-                  <div className="w-12 h-12 bg-white/10 rounded-lg flex items-center justify-center flex-shrink-0 border border-white/20">
-                    <Phone className="w-6 h-6 text-blue-400" />
-                  </div>
-                  <div>
-                    <h4 className="font-semibold mb-1 text-white">Phone</h4>
-                    <p className="text-gray-400">+91-XXXXXXXXXX</p>
-                  </div>
-                </div>
               </div>
             </div>
 

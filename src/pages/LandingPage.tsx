@@ -19,7 +19,7 @@ const LandingPage = () => {
     <>
       <SEO 
         title="Trinetra - Enabling India's Commercial EV Ecosystem | EV Charging Infrastructure"
-        description="Trinetra builds scalable EV charging infrastructure and fleet enablement services for India's commercial electric vehicle ecosystem. DPIIT-recognized Startup India company."
+        description="Trinetra green mobility builds scalable EV charging infrastructure and fleet enablement services for India's commercial electric vehicle ecosystem. DPIIT-recognized Startup India company."
         keywords="EV charging infrastructure, electric vehicle charging, commercial EV, fleet electrification, EV charging stations India, electric mobility, sustainable transportation"
       />
       <StructuredData />
