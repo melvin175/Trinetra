@@ -189,7 +189,7 @@ Reply to: ${formData.email}`);
                     <MapPin className="w-6 h-6 text-blue-400" />
                   </div>
                   <div>
-                    <h4 className="font-semibold mb-1 text-white">Trinetra Private Limited</h4>
+                    <h4 className="font-semibold mb-1 text-white">Trinetra Green Mobility </h4>
                     <p className="text-gray-400">India</p>
                   </div>
                 </div>

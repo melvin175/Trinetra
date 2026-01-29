@@ -6,7 +6,7 @@ export const StructuredData = () => {
     const organizationSchema = {
       "@context": "https://schema.org",
       "@type": "Organization",
-      "name": "Trinetra Private Limited",
+      "name": "Trinetra Green Mobility ",
       "alternateName": "Trinetra",
       "url": "https://trinetra.com",
       "logo": "https://trinetra.com/logo.png",
@@ -48,7 +48,7 @@ export const StructuredData = () => {
       "serviceType": "EV Charging Infrastructure & Fleet Enablement",
       "provider": {
         "@type": "Organization",
-        "name": "Trinetra Private Limited"
+        "name": "Trinetra Green Mobility "
       },
       "areaServed": {
         "@type": "Country",
