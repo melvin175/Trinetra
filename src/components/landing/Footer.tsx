@@ -35,7 +35,7 @@ export const Footer = () => {
         </div>
 
         <div className="text-center text-gray-500 text-sm pt-8 border-t border-white/10">
-          <p>© 2026 Trinetra Private Limited. All rights reserved.</p>
+          <p>© 2026 Aarambh Green Mobility Private Limited. All rights reserved.</p>
         </div>
       </div>
     </footer>
